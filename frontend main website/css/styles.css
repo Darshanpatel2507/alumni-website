@@ -180,7 +180,7 @@ input, select, textarea { font-family: inherit; }
 
 .logo-img {
   height: 55px;
-  width: 120px;
+  width: 100px;
   transition: all var(--transition);
   border-radius: 10px;
   /* Add transparent border in light mode so it takes up exact same space as it does in dark mode */
