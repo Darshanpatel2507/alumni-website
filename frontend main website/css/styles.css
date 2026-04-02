@@ -180,11 +180,11 @@ input, select, textarea { font-family: inherit; }
 
 .logo-img {
   height: 55px;
-  width: 100px;
+  width: 110px;
   transition: all var(--transition);
   border-radius: 10px;
   /* Add transparent border in light mode so it takes up exact same space as it does in dark mode */
-  border: 4px solid transparent; 
+  border: 3px solid transparent; 
   background-color: transparent;
 }
 
@@ -291,7 +291,7 @@ input, select, textarea { font-family: inherit; }
    HERO SECTION
    ===================================================== */
 .hero-section {
-  padding-top: 140px;
+  padding-top: 100px;
   padding-bottom: 80px;
 }
 
