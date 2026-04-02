@@ -163,7 +163,7 @@ input, select, textarea { font-family: inherit; }
   max-width: 1180px;
   margin: 0 auto;
   padding: 0 24px;
-  height: 62px;
+  height: 60px;
   display: flex;
   align-items: center;
   gap: 24px;
@@ -179,8 +179,8 @@ input, select, textarea { font-family: inherit; }
 }
 
 .logo-img {
-  height: 50px;
-  width: 100px;
+  height: 48px;
+  width: 98px;
   transition: all var(--transition);
   border-radius: 10px;
   /* Add transparent border in light mode so it takes up exact same space as it does in dark mode */
